@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá, eu sou o Victor 👋
 
-<!--
-**VictorEmanuelCaetano/VictorEmanuelCaetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do ensino médio  
+💻 Interessado em tecnologia, informática e programação, desingn gráfico  
+🧠 Estudando lógica, Python, Lua e funcionamento de computadores
 
-Here are some ideas to get you started:
+## Um pouco sobre mim
+gosto de entender como as coisas funcionam, computadores e eletrônicos são a minha paixão
+Atualmente estou estudando python, mas planejo focar minha carreira em java.
+as vezes faço uns pequenos jogos em lua, no Roblox.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+Email: victoremau658@gmail.com
+GitHub
