@@ -7,6 +7,7 @@ gosto de entender como as coisas funcionam, computadores e eletrônicos são a m
 Atualmente estou estudando python, mas planejo focar minha carreira em java.
 as vezes faço uns pequenos jogos em lua, no Roblox.
 
+[![My Skills](https://skillicons.dev/icons?i=python,lua,photoshop)](https://skillicons.dev)
 ## Contato
 Email: victoremau658@gmail.com
 GitHub: https://github.com/VictorEmanuelCaetano
