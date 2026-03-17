@@ -9,6 +9,6 @@ as vezes faço uns pequenos jogos em lua, no Roblox.
 
 [![My Skills](https://skillicons.dev/icons?i=python,lua,photoshop)](https://skillicons.dev)
 ## Contato
-Email: victoremau658@gmail.com
+Email: contatovictoremanuelcaetano@gmail.com
 GitHub: https://github.com/VictorEmanuelCaetano
  
