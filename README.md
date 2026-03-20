@@ -1,6 +1,6 @@
 ## Olá, eu sou o Victor 👋
 🎓 Estudante do ensino médio  
-💻 Interessado em tecnologia, informática e programação, desingn gráfico  
+💻 Interessado em tecnologia, informática e programação, design gráfico  
 🧠 Estudando lógica, Python, Lua e funcionamento de computadores
 ## Um pouco sobre mim
 gosto de entender como as coisas funcionam, computadores e eletrônicos são a minha paixão
